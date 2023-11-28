@@ -12,6 +12,8 @@
 install lib
 ```
 pip install ttkbootstrap
+pip install pandas
+pip install openpyxl
 pip install Pillow==9.5.0
 ```
 
